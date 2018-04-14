@@ -7,13 +7,22 @@ body {
 }
 
 #message-pane {
-    background-color: #2d6ca3;
+    background-color: #e2efa0;
+    border-radius: 10px;
 }
 
 #form-card {
     margin: 0px;
+    border-radius: 10px;
 }
 
 .material-icons {
     font-size: 30px !important;
+}
+
+.message-card {
+    max-width: 75%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 14px;
 }
