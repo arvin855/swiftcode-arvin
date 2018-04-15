@@ -16,6 +16,6 @@ app.controller('chatController', function ($scope) {
 	},
         {
             'sender': "BOT",
-            'text': 'see your watch'
+            'text': 'see your watch :P'
 	}];
 });
