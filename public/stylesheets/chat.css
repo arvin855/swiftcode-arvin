@@ -7,7 +7,8 @@ body {
 }
 
 #message-pane {
-    background-image: url("http://getwallpapers.com/wallpaper/full/3/e/9/8223.jpg");
+    //background-image: url("http://getwallpapers.com/wallpaper/full/3/e/9/8223.jpg");
+    background-image: url("http://www.kinyu-z.net/data/wallpapers/187/1358810.gif");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 10px;
@@ -32,4 +33,11 @@ body {
     border-radius: 10px;
     padding: 10px;
     font-size: 14px;
+}
+
+.message-time {
+    margin-top: 4px;
+    float: right;
+    color: #f7365d;
+    font-size: 10px;
 }
