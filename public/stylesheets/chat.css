@@ -7,17 +7,24 @@ body {
 }
 
 #message-pane {
-    background-color: #e2efa0;
+    background-image: url("http://getwallpapers.com/wallpaper/full/3/e/9/8223.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     border-radius: 10px;
+    font-style: italic;
 }
+
+
 
 #form-card {
     margin: 0px;
     border-radius: 10px;
+    font-style: italic;
 }
 
 .material-icons {
     font-size: 30px !important;
+    color: #0260f7;
 }
 
 .message-card {
